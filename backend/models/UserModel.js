@@ -15,4 +15,4 @@ export default User;
 
 (async()=>{
     await db.sync();
-});
+})();
